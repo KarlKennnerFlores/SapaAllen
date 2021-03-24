@@ -1,11 +1,8 @@
 {
         vendorId "eqela"
-        projectId "helloworld"
-        title "Simple Hello World"
-        copyright "Copyright (c) 2021 Eqela"
-        license "All rights reserved."
+        projectId "tasklist"
+        title "Sling Tasklist"
         libraries [
-                "jk-app:0.25.0"
-
+                 "jk-db:0.19.0"
         ]
 }
